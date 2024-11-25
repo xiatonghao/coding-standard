@@ -1,7 +1,9 @@
 import { defineConfig } from 'vitepress'
 
+const base = "/coding-standard/"; 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base,
   title: "Web 前端代码规范",
   description: "Web 前端代码规范",
   themeConfig: {
