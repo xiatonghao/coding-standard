@@ -1,6 +1,6 @@
 # TypeScript 规范
 
-**TypeScript 规范继承 [JavaScript 规范](/docs/code/js/)，下面是其自己的特有的规范。**
+**TypeScript 规范继承 [JavaScript 规范](/code/js/)，下面是其自己的特有的规范。**
 
 ## 简介
 
@@ -111,7 +111,7 @@ xxxx
 
 - 类型定义的时候必须的属性放在可选的属性前面。
 - 类型定义的越详细越好，最好有注释。
-- 类型定义的时候应根据实际情况使用`typeScript`的高级类型 [见下文](/docs/code/ts/#高级类型)
+- 类型定义的时候应根据实际情况使用`typeScript`的高级类型 [见下文](/code/ts/#高级类型)
 
 ## 基础类型变量
 
